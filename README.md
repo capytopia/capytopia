@@ -1,4 +1,5 @@
-### Hello there!
+### Hello Internet!
+I am currently recruiting participants who have experience in AI-native app development. If you are interested in joining a 30 minutes interview session, please fill out this [1-minute survey] (https://github.surveymonkey.com/r/ai-native-app-development-1), so we can schedule a time with you. Your participation would be invaluable in helping us gather meaningful feedback to improve the evolving open source community!
 
 <!--
 **capytopia/capytopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
